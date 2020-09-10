@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="ListViewCountInTab">
+  <BOModel>
+    <Class Name="ListViewCountInTab.Module.BusinessObjects.Employee">
+      <OwnMembers>
+        <Member Name="Tasks" ImmediatePostData="False" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="20.1.7.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
