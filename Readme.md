@@ -9,6 +9,5 @@ In this example, we demonstrate how to show the number of nested ListViews' item
 <!-- default file list -->
 *Files to look at*:
 
-* [EmployeeDetailViewWebController.cs](./CS/ListViewCountInTabs.Module.Web/Controllers/EmployeeDetailViewWebController.cs)
-* [EmployeeDetailViewWinController.cs](./CS/ListViewCountInTabs.Module.Win/Controllers/EmployeeDetailViewWinController.cs)
+* [EmployeeDetailViewController.cs](./CS/ListViewCountInTab.Module.Blazor/Controllers/EmployeeDetailViewController.cs)
 <!-- default file list end -->
